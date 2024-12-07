@@ -1,5 +1,5 @@
 ---
-title: "Yolanda Wu"
+title: "Yuexuan/Yolanda Wu"
 about:
   template: trestles
   image: photo.jpg
@@ -21,7 +21,7 @@ toc: false
 
 ## Welcome!
 
-I am a fourth-year undergraduate student at UCLA double-majoring in Math/Econ and Stats&Data Science. My research interests are in Statistical Machine Learning, Financial Mathematics, and Networks. I'm grateful to be mentored by [Dr. Mason Porter](https://www.math.ucla.edu/~mason/) and [Dr. Jerry Luo](https://jerryluo8.github.io/). My project is on `Microfinance Diffusion` and `Opinion Dynamics`.
+I am a fourth-year undergraduate student at UCLA double-majoring in Math/Econ and Stats&Data Science. My research interests are in Statistical Machine Learning, Financial Mathematics, and Networks. I'm grateful to be mentored by [Dr. Mason Porter](https://www.math.ucla.edu/~mason/) and [Dr. Jerry Luo](https://jerryluo8.github.io/). My projects are on `Microfinance Diffusion` and `Opinion Dynamics`.
 
 Click here to view a selection of [my projects](Projects.qmd).
 
