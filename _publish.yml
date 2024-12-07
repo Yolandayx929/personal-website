@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 4ac139db-e33d-4f3a-b5f3-ec0e28015446
+      url: 'https://wondrous-daffodil-5d9060.netlify.app'
