@@ -1,5 +1,5 @@
 ---
-title: "Project 2"
+title: "Sentiment Analysis of Movie Reviews"
 ---
 
-blabla.
+The details of the project with be uploaded later. Please access [here](https://github.com/Yolandayx929/Sentiment-Analysis-of-Movie-Reviews).

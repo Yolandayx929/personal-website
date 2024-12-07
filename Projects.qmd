@@ -13,15 +13,17 @@ listing:
     categories: false 
 ---
 
-## Project 1
+## Project 1 - [Student Performance Prediction](/Projects/01-project.qmd)
 
-Here is my [project 1](/Projects/01-project.qmd)
+This research project report has been submitted as the final assignment for course STATS-101A Introduction to Data Analysis and Regression at UCLA. The main goal is to determine the most influential predictors on a student's final grade in Portuguese secondary schools using a combination of students’ physical and school-related factors.
 
-## Project 2
+Click [here](/Projects/01-project.qmd) to view in detail.
 
-Here is my [project 2](/Projects/02-project.qmd)
+## Project 2 - [Sentiment Analysis of Movie Reviews](/Projects/02-project.qmd)
 
+This research project report has been submitted as the final assignment for course STATS-101C Data Mining at UCLA. By transforming text data to numerical data, our main goal is to access different machine learning models' accuracy in predicting sentiments.
 
+Click [here](/Projects/02-project.qmd) to view in detail.
 
-:::projects-listing
-:::
+<!-- :::projects-listing -->
+<!-- ::: -->

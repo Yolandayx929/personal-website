@@ -10,7 +10,7 @@ website:
       - href: Projects.qmd
         text: Projects
 
-page-footer:
+  page-footer:
     left: "© Copyright 2024 Yolanda Wu."
 
 format:

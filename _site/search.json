@@ -11,14 +11,14 @@
     "href": "index.html",
     "title": "Yolanda Wu",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+    "text": "I am a fourth-year undergraduate student at UCLA double-majoring in Math/Econ and Stats&Data Science. My research interests are in Statistical Machine Learning, Financial Mathematics, and Networks. I’m grateful to be mentored by Dr. Mason Porter and Dr. Jerry Luo. My project is on Microfinance Diffusion and Opinion Dynamics.\nClick here to view a selection of my projects.\n\n\n\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. Math/Econ, B.S. Statistics and Data Science| Sept 2022 - June 2025 (Expected)\n\n\n\nShepherd Ventures | Senior Quantitative Analyst | May 2024 - Present\nHigh Hope Investment Management | Quantitative Analyst | July 2024 - Sept 2024\nYingda International Trust | Equity Research Intern | July 2023 - Sept 2023"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Yolanda Wu",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+    "section": "",
+    "text": "University of California, Los Angeles | Los Angeles, CA\nB.S. Math/Econ, B.S. Statistics and Data Science| Sept 2022 - June 2025 (Expected)"
   },
   {
     "objectID": "index.html#experience",
@@ -32,7 +32,7 @@
     "href": "Projects.html",
     "title": "Yolanda Wu",
     "section": "",
-    "text": "Here is my project 1"
+    "text": "This research project report has been submitted as the final assignment for course STATS-101A Introduction to Data Analysis and Regression at UCLA. The main goal is to determine the most influential predictors on a student’s final grade in Portuguese secondary schools using a combination of students’ physical and school-related factors.\nClick here to view in detail."
   },
   {
     "objectID": "Projects.html#project-1",
@@ -44,9 +44,9 @@
   {
     "objectID": "Projects/01-project.html",
     "href": "Projects/01-project.html",
-    "title": "Project 1",
+    "title": "Student Performance Prediction",
     "section": "",
-    "text": "Some guide.\n\nc(1,2)\n\n[1] 1 2"
+    "text": "More details decribed in here."
   },
   {
     "objectID": "Projects.html#project-2",
@@ -58,8 +58,71 @@
   {
     "objectID": "Projects/02-project.html",
     "href": "Projects/02-project.html",
-    "title": "Project 2",
+    "title": "Sentiment Analysis of Movie Reviews",
     "section": "",
-    "text": "blabla."
+    "text": "The details of the project with be uploaded later. Please access here."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "I am a fourth-year undergraduate student at UCLA double-majoring in Math/Econ and Stats&Data Science. My research interests are in Statistical Machine Learning, Financial Mathematics, and Networks. I’m grateful to be mentored by Dr. Mason Porter and Dr. Jerry Luo. My project is on Microfinance Diffusion and Opinion Dynamics.\nClick here to view a selection of my projects."
+  },
+  {
+    "objectID": "index.html#internship-experiences",
+    "href": "index.html#internship-experiences",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "Shepherd Ventures | Senior Quantitative Analyst | May 2024 - Present\nHigh Hope Investment Management | Quantitative Analyst | July 2024 - Sept 2024\nYingda International Trust | Equity Research Intern | July 2023 - Sept 2023"
+  },
+  {
+    "objectID": "Projects.html#project-1---student-performance-prediction",
+    "href": "Projects.html#project-1---student-performance-prediction",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "This research project report has been submitted as the final assignment for course STATS-101A Introduction to Data Analysis and Regression at UCLA. The main goal is to determine the most influential predictors on a student’s final grade in Portuguese secondary schools using a combination of students’ physical and school-related factors.\nClick here to view in detail."
+  },
+  {
+    "objectID": "Projects.html#project-2---sentiment-analysis-of-movie-reviews",
+    "href": "Projects.html#project-2---sentiment-analysis-of-movie-reviews",
+    "title": "Yolanda Wu",
+    "section": "Project 2 - Sentiment Analysis of Movie Reviews",
+    "text": "Project 2 - Sentiment Analysis of Movie Reviews\nThis research project report has been submitted as the final assignment for course STATS-101C Data Mining at UCLA. By transforming text data to numerical data, our main goal is to access different machine learning models’ accuracy in predicting sentiments.\nClick here to view in detail."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "Shepherd Ventures | Senior Quantitative Analyst | May 2024 - Present\nHigh Hope Investment Management | Quantitative Analyst | July 2024 - Sept 2024\nYingda International Trust | Equity Research Intern | July 2023 - Sept 2023"
+  },
+  {
+    "objectID": "Projects/01-project.html#research-question-of-interest",
+    "href": "Projects/01-project.html#research-question-of-interest",
+    "title": "Student Performance Prediction",
+    "section": "1.1 Research Question of Interest",
+    "text": "1.1 Research Question of Interest\nOur research question is: Can we accurately predict students’ final grades based on their time of study, family members’ education level, students’ health condition and number of absences? This question was formulated considering its potential implications for early interventions in a student’s academic journey. For instance, understanding what non-academic factors contribute significantly to final grades could help schools and policymakers design effective support systems to improve student performance."
+  },
+  {
+    "objectID": "Projects/01-project.html#background-and-source-of-the-data-set",
+    "href": "Projects/01-project.html#background-and-source-of-the-data-set",
+    "title": "Student Performance Prediction",
+    "section": "1.2 Background and Source of the Data Set",
+    "text": "1.2 Background and Source of the Data Set\nThe data we use in this project was collected from two Portuguese secondary schools and includes a variety of student grades, family-related and school-related attributes. In this report, we start by providing a descriptive analysis of the data, then move on to fit and interpret multiple regression models to answer our research question, and finally discuss our findings and their implications. The variables include:\n\n\n\n\n\n\n\n\nField\nDescription\nOptions\n\n\n\n\nMedu\nMother’s Education\n1 - None, 2 - Primary, 3 - Secondary, 4 - College\n\n\nFedu\nFather’s Education\n1 - None, 2 - Primary, 3 - Secondary, 4 - College\n\n\nstudytime\nWeekly Study Time\n1 - &lt;2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, 4 - &gt;10 hours\n\n\nhealth\nCurrent Health Status\n1 - Very Bad, 2, 3, 4, 5 - Very Good\n\n\nabsences\nNumber of Absences\n0 to 93\n\n\nG1\nFirst-Period Grade\n0 to 20\n\n\nG2\nSecond-Period Grade\n0 to 20\n\n\nG3\nFinal Grade\n0 to 20\n\n\nGtotal\nTotal Grade\n0 to 60\n\n\n\n\n[!TIP] The latest version of this project report, datasets and R source code files are available in this GitHub repository."
+  },
+  {
+    "objectID": "Projects/01-project.html#original-model-diagnostics",
+    "href": "Projects/01-project.html#original-model-diagnostics",
+    "title": "Student Performance Prediction",
+    "section": "3.1 Original Model Diagnostics",
+    "text": "3.1 Original Model Diagnostics\nBased on the scatter plot (Figure 2.1) and summary result (Tab 3.1), we learn about the relationship between response variable and all predictors. We can learn from scatter plot and summary result that except for the educational levels of fathers, all other variables are statistically significant.\nTab 3.1 Summary Result of Original Model\nCall:\nlm(formula = Gtotal ~ Medu + Fedu + studytime + health + absences, \n    data = student)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-18.5097  -4.4600  -0.2166   4.0884  17.7181 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 31.09306    1.73540  17.917  &lt; 2e-16 ***\nMedu         1.21202    0.38351   3.160 0.001691 **\nCall:\nlm(formula = Gtotal ~ Medu + Fedu + studytime + health + absences, \n    data = student)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-18.5097  -4.4600  -0.2166   4.0884  17.7181 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 31.09306    1.73540  17.917  &lt; 2e-16 ***\nMedu         1.21202    0.38351   3.160 0.001691 ** \nFedu         0.25086    0.37613   0.667 0.505165    \nstudytime    1.82387    0.38853   4.694 3.64e-06 ***\nhealth      -0.67388    0.22628  -2.978 0.003070 ** \nabsences    -0.24260    0.06267  -3.871 0.000126 ***\nSignif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1\nResidual standard error: 6.564 on 417 degrees of freedom\nMultiple R-squared:  0.1634,    Adjusted R-squared:  0.1534 \nF-statistic: 16.29 on 5 and 417 DF,  p-value: 1.089e-14\nBased on the diagnostic plots (see Appendix I, Figure I.1), we know that the variance of residuals is not constant and there are some bad leverage points. Thus, this model is not valid and needs to be modified. Then we use the R code result (Table 3.2) to determine the transformation needed for each variable. Since for the variable of absence, there are 0 values that hinder our function, we add 1 to all absence values.\nTab 3.2 Transformation Results for each variable\nbcPower Transformations to Multinormality \n          Est Power Rounded Pwr Wald Lwr Bnd Wald Upr Bnd\nGtotal       0.6166        1.00       0.2193       1.0140\nMedu         1.2951        1.00       0.9946       1.5956\nFedu         0.7896        1.00       0.5172       1.0619\nstudytime    0.1993        0.00      -0.0206       0.4192\nhealth       1.4179        1.42       1.1839       1.6518\n            -0.0531        0.00      -0.1634       0.0572\nLikelihood ratio test that transformation parameters are equal to 0\n (all log transformations)\n                                    LRT df       pval\nLR test, lambda = (0 0 0 0 0 0) 304.811  6 &lt; 2.22e-16\n\nLikelihood ratio test that no transformations are needed\n                                     LRT df       pval\nLR test, lambda = (1 1 1 1 1 1) 468.6497  6 &lt; 2.22e-16\nBased on the rounded power in R result, we can get the transformed model to be: \\(`Gtotal = β_0+ β_1× Medu + β_2× Fedu + β_3×log⁡(studytime)+ β_4× health^{1.42}+ β_5×log⁡(absences +1)`\\)\nTab 3.3 Summary Result of Transformed Model\nCall:\nlm(formula = Gtotal ~ Medu + Fedu + log(studytime) + I(health^(1.4)) + \n    log(absences + 1), data = student)\nResiduals:\n     Min       1Q   Median       3Q      Max \n-18.8946  -4.3599  -0.0842   4.2985  17.9949 \nCoefficients:\n                  Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)        32.2162     1.5458  20.842  &lt; 2e-16 ***\nMedu                1.2536     0.3830   3.273  0.00115 ** \nFedu                0.2263     0.3760   0.602  0.54754    \nlog(studytime)      3.6824     0.7561   4.870 1.59e-06 ***\nI(health^(1.4))    -0.2907     0.1030  -2.822  0.00501 ** \nlog(absences + 1)  -1.1697     0.3278  -3.569  0.00040 ***\n---\nSignif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1\nResidual standard error: 6.565 on 417 degrees of freedom\nMultiple R-squared:  0.1631,    Adjusted R-squared:  0.153 \nF-statistic: 16.25 on 5 and 417 DF,  p-value: 1.189e-14"
+  },
+  {
+    "objectID": "Projects/01-project.html#final-model-diagnostics",
+    "href": "Projects/01-project.html#final-model-diagnostics",
+    "title": "Student Performance Prediction",
+    "section": "3.2 Final Model Diagnostics",
+    "text": "3.2 Final Model Diagnostics\nAfter figuring out the variable transformation, we should then move on to the variable selection process. We can use the forward stepwise method to find out the best subset model.\nTab 3.4 Result of Forward Stepwise Method\nStart:  AIC=1663.25\nGtotal ~ 1\n\n                    Df Sum of Sq   RSS    AIC\n+ log(studytime)     1   1608.67 19867 1632.3\n+ Medu               1   1153.63 20322 1641.9\n+ log(absences + 1)  1    942.13 20534 1646.3\n+ I(health^(1.4))    1    476.34 20999 1655.8\n+ Fedu               1    446.32 21029 1656.4\n&lt;none&gt;                           21476 1663.2\n\nStep:  AIC=1632.31\nGtotal ~ log(studytime)\n                    Df Sum of Sq   RSS    AIC\n+ Medu               1   1022.92 18844 1612.0\n+ log(absences + 1)  1    576.25 19291 1621.9\n+ Fedu               1    468.35 19399 1624.2\n+ I(health^(1.4))    1    321.10 19546 1627.4\n&lt;none&gt;                           19867 1632.3\n\nStep:  AIC=1611.95\nGtotal ~ log(studytime) + Medu\n\n                    Df Sum of Sq   RSS    AIC\n+ log(absences + 1)  1    518.66 18325 1602.2\n+ I(health^(1.4))    1    312.59 18532 1606.9\n&lt;none&gt;                           18844 1612.0\n+ Fedu               1      3.80 18840 1613.9\n\nStep:  AIC=1602.15\nGtotal ~ log(studytime) + Medu + log(absences + 1)\n                  Df Sum of Sq   RSS    AIC\n+ I(health^(1.4))  1    335.94 17990 1596.3\n&lt;none&gt;                         18325 1602.2\n+ Fedu             1      8.38 18317 1604.0\n\nStep:  AIC=1596.32\nGtotal ~ log(studytime) + Medu + log(absences + 1) + I(health^(1.4))\n\n       Df Sum of Sq   RSS    AIC\n&lt;none&gt;              17990 1596.3\n+ Fedu  1    15.618 17974 1598.0\nBased on the AIC values, we know that when the model is \\(`Gtotal ~ log(studytime) + Medu + log(absences + 1) + I(health^1.4)`\\), AIC get the smallest value. Therefore, the final model should be: \\(`Gtotal = β_0  + β_1  × Medu + β_2×log(studytime) + β_3  × health^1.42  + β_4  × log(absences +1) `\\). Checking on this final model, we can get the summary and diagnostic plots (see Appendix I, Figure I.2).\nTab 3.5 Summary Result of Final Model\nCall:\nx\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-18.7267  -4.3258  -0.1429   4.2414  17.6855 \n\nCoefficients:\n                  Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept)        32.4402     1.4991  21.639  &lt; 2e-16 ***\nMedu                1.3991     0.2969   4.712 3.35e-06 ***\nlog(studytime)      3.6628     0.7548   4.852 1.72e-06 ***\nI(health^(1.4))    -0.2871     0.1028  -2.794 0.005447 ** \nlog(absences + 1)  -1.1612     0.3272  -3.549 0.000431 ***\n---\nSignif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1\nResidual standard error: 6.56 on 418 degrees of freedom\nMultiple R-squared:  0.1623,    Adjusted R-squared:  0.1543 \nF-statistic: 20.25 on 4 and 418 DF,  p-value: 2.918e-15\nBased on the plots and summary, we know that all transformed variables in the final model are significant. Also, the variance of residuals becomes more constant, and the model has less bad leverage points."
   }
 ]
