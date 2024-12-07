@@ -11,6 +11,55 @@
     "href": "index.html",
     "title": "Yolanda Wu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nprint(\"hi\")\n\n[1] \"hi\""
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yolanda Wu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Yolanda Wu",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Yolanda Wu",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "Projects/01-project.html",
+    "href": "Projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Some guide.\n\nc(1,2)\n\n[1] 1 2"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
+    "title": "Yolanda Wu",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2"
+  },
+  {
+    "objectID": "Projects/02-project.html",
+    "href": "Projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "blabla."
   }
 ]

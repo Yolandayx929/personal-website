@@ -1,0 +1,10 @@
+---
+title: "Project 1"
+---
+
+Some guide.
+
+```{r}
+c(1,2)
+```
+
